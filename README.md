@@ -11,14 +11,6 @@ my website blog resume thingy
     <h1 style="text-align:center;">star_arx</h1>
     <nav>
 <ui>
-   <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Art</a></li>
-        <li><a href="#">Blog</a></li> <href="Blog.html"> </href>
-        <li><a href="#">Contact</a></li>
-      </ul>  
-    </ui>
-    </nav>
 </header>
 
 </nav>
