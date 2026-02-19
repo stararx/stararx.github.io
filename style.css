@@ -1,8 +1,9 @@
 body {
   background-color: black;
   color: white;
-  font-family: 'Osaka', sans-serif; /* ‘Osaka’ font, fallback to sans-serif */
-  margin: 0; /* Reset default margin */
-  padding: 0; /* Reset default padding */
+  font-family: 'Osaka', sans-serif; 
+  margin: 0; 
+  padding: 0;
 }
+
 
